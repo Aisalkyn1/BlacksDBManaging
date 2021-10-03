@@ -1,0 +1,42 @@
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\bin\Debug\BlacksPropertyManagement.exe.config
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\bin\Debug\BlacksPropertyManagement.exe
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\bin\Debug\BlacksPropertyManagement.pdb
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.csproj.AssemblyReference.cache
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.DataController.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.InvoicesPrintForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.JobAddForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.JobDeleteForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.JobUpdateForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.MaterialsAssignFrom.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.MaterialsRemoveFrom.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.PropertyAddForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.MainForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.Properties.Resources.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.PropertyDeleteForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.PropertyUpdateForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.TradesmenReportPrintForm.resources
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.csproj.GenerateResource.cache
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.csproj.CoreCompileInputs.cache
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.exe
+C:\Users\baina\source\repos\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.pdb
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\bin\Debug\BlacksPropertyManagement.exe.config
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\bin\Debug\BlacksPropertyManagement.exe
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\bin\Debug\BlacksPropertyManagement.pdb
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.csproj.AssemblyReference.cache
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.DataController.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.InvoicesPrintForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.JobAddForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.JobDeleteForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.JobUpdateForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.MaterialsAssignFrom.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.MaterialsRemoveFrom.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.PropertyAddForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.MainForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.Properties.Resources.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.PropertyDeleteForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.PropertyUpdateForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.TradesmenReportPrintForm.resources
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.csproj.GenerateResource.cache
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.csproj.CoreCompileInputs.cache
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.exe
+C:\Users\baina\Documents\User interface\Assessment 2\BlacksPropertyManagement\BlacksPropertyManagement\obj\Debug\BlacksPropertyManagement.pdb
